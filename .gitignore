@@ -219,3 +219,6 @@ pip-log.txt
 *.recall
 *.TempPoint.ps1
 *.@@*.ps1
+
+# GitHub files
+*.gitignore

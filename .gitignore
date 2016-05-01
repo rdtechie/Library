@@ -218,4 +218,4 @@ pip-log.txt
 # Sapien files
 *.recall
 *.TempPoint.ps1
-*.@@
+*.@@*.ps1

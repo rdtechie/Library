@@ -4,6 +4,7 @@
 	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2016 v5.2.120
 	 Created on:   	2016-05-01 2:20 AM
 	 Created by:   	Richard Diphoorn
+	 Twitter:		https://twitter.com/rdtechie
 	 Organization: 	Platani Nederland B.V.
 	 Filename:		Configure-NormalizedEmailAddressPolicy.ps1
 	===========================================================================
